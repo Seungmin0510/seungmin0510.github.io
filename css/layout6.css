@@ -1,0 +1,19 @@
+.name
+{
+   display:block;
+   height:30px;width:90px;
+   float:left;
+}
+
+.img
+{
+    width:100px;height:100px; 
+    float:left;
+    border-radius:100px;
+}
+
+.img2
+{
+    width:200px;
+    height:200px;float:left; 
+}
